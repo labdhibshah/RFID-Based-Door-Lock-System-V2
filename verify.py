@@ -3,6 +3,6 @@ def verify_num(id):
         print("Name: Labdhi shah u can enter now!")
         return(True)
     else:
-        print("sorry u r not authorized")
+        print("Sorry u r not authorized")
         return(False)
     
